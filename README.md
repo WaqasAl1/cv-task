@@ -1,2 +1,2 @@
 # cv-task
-## task link:
+## task link:https://waqasal1.github.io/cv-task/
